@@ -162,7 +162,7 @@ def put(note_id):
 def delete(note_id):
     """
     Changes all fields in note by note_id.
-hvghvhv
+
     Returns:
         response (str): Result of function: "deleted" or error.
         status_code (int): The HTTP status code.
