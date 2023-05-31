@@ -161,7 +161,7 @@ def put(note_id):
 @app.route('/notes/<int:note_id>', methods=["DELETE"])
 def delete(note_id):
     """
-    Changes all fields in note by note_id.
+    Changes all fielа аа ds in note by note_id.
 
     Returns:
         response (str): Result of function: "deleted" or error.
